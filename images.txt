@@ -6,3 +6,4 @@ xhofe/alist:latest
 nastools/nas-tools:2.9.1
 linuxserver/qbittorrent
 linuxserver/jackett
+linuxserver/jellyfin
