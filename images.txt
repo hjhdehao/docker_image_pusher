@@ -9,3 +9,4 @@ linuxserver/jellyfin
 nyanmisaka/jellyfin
 19970688/nastools-bt
 allanpk716/chinesesubfinder:latest
+estrellaxd/auto_bangumi:latest
