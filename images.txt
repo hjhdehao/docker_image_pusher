@@ -12,3 +12,4 @@ allanpk716/chinesesubfinder:latest
 estrellaxd/auto_bangumi:latest
 hotio/sonarr
 hotio/radarr
+jxxghp/moviepilot
