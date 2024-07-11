@@ -5,7 +5,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/qbittorrent
 linuxserver/jackett
-linuxserver/jellyfin
 nyanmisaka/jellyfin
 19970688/nastools-bt
 allanpk716/chinesesubfinder:latest
@@ -13,3 +12,4 @@ estrellaxd/auto_bangumi:latest
 hotio/sonarr
 hotio/radarr
 jxxghp/moviepilot
+hotio/prowlarr
