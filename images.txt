@@ -13,3 +13,4 @@ hotio/sonarr
 hotio/radarr
 jxxghp/moviepilot
 hotio/prowlarr
+romancin/tinymediamanager
