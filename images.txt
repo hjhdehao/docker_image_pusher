@@ -14,3 +14,4 @@ hotio/radarr
 jxxghp/moviepilot
 hotio/prowlarr
 tinymediamanager/tinymediamanager
+zack357/douban-tool
