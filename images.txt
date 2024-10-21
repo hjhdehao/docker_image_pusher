@@ -5,5 +5,4 @@ linuxserver/qbittorrent
 linuxserver/jackett
 nyanmisaka/jellyfin
 estrellaxd/auto_bangumi:latest
-zack357/douban-tool
-hsuyelin/nas-tools:latest
+wushuo894/ani-rss
